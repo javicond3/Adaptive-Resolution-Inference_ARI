@@ -39,3 +39,17 @@ The ARI methodology was evaluated using the following configurations:
   - Floating-point (FP16 as the full-precision baseline).
   - Stochastic Computing (SC) with varying bit-widths (e.g., 6 to 12 bits) for the reduced-precision inferences.
 
+## Citation
+
+If you use this work or find it helpful, please cite the original paper:
+
+```bibtex
+@article{wang2023adaptive,
+  title={Adaptive Resolution Inference (ARI): Energy Efficient Machine Learning for the Internet of Things},
+  author={Wang, Ziheng and Reviriego, Pedro and Niknia, Farzad and Conde, Javier and Liu, Shanshan and Lombardi, Fabrizio},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  doi={10.1109/JIOT.2023.3339623},
+  publisher={IEEE}
+}
+```
